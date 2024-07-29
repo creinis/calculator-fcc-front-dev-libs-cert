@@ -12,10 +12,9 @@
 - **CSS:** Cascading Style Sheets is employed extensively for styling and presentation. It defines the visual appearance of HTML elements, including layout, colors, fonts, and responsiveness. This project leverages CSS to create a visually appealing interface.
 - **JavaScript:** JavaScript is used to add interactivity to the project. It handles the logic for the calculator's operations and updates the UI dynamically.
 - **React:** A JavaScript library for building user interfaces. React is used in this project to create reusable components and manage the application's state.
-- **Font Awesome:** A popular icon library used to add scalable vector icons that can be customized with CSS.
 
 ### Try it!
-https://your-js-calculator.vercel.app/
+https://calculator-fcc-front-dev-libs-cert.vercel.app/
 
 ### Functionality
 
